@@ -1,0 +1,3 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body { @apply bg-slate-50 text-navy-900 antialiased; font-family: system-ui, "Segoe UI", sans-serif; }
+:focus-visible { outline: 3px solid #1f5fd1; outline-offset: 2px; }
